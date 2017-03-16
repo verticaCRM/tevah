@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tlazya v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-28 20:01+0500\n"
+"PO-Revision-Date: Thu Mar 17 2016 17:35:47 GMT+0200 (IST)\n"
+"Last-Translator: marc <marc@marcgottlieb.com>\n"
+"Language-Team: Wow Themes <support@wow-themes.com>\n"
+"Language: Portuguese (Portugal)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\\\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: pt_PT"
+
+#: ../header.php:61
+msgid "NAVIGATION"
+msgstr ""
+
+#: ../archive-listing.php:161
+msgid "This propery was removed from your portfolio"
+msgstr ""
+
+#: ../archive-listing.php:163
+msgid "The address of this business is available to you"
+msgstr ""
+
+#: ../archive-listing.php:165
+msgid "This propery is in your portfolio"
+msgstr ""
+
+#: ../archive-listing.php:202
+msgid "Business Details"
+msgstr ""
+
+#: ../archive-listing.php:204
+msgid "Complete Business Profile"
+msgstr ""
+
+#: ../archive-listing.php:211
+msgid "Listed on:"
+msgstr ""
+
+#: ../archive-listing.php:212
+msgid "Listing ID:"
+msgstr ""
+
+#: ../archive-listing.php:213
+msgid "Categories:"
+msgstr ""
+
+#: ../archive-listing.php:214 ../archive-listing.php:228
+msgid "State:"
+msgstr ""
+
+#: ../archive-listing.php:215
+msgid "Asking Price:"
+msgstr ""
+
+#: ../archive-listing.php:216
+msgid "Gross Revenue:"
+msgstr ""
+
+#: ../archive-listing.php:217
+msgid "Down Payment:"
+msgstr ""
+
+#: ../archive-listing.php:218
+msgid "Terms:"
+msgstr ""
+
+#: ../archive-listing.php:219
+msgid "Owner's Cash Flow:"
+msgstr ""
+
+#: ../archive-listing.php:225
+msgid "Location"
+msgstr ""
+
+#: ../archive-listing.php:226 ../footer.php:60
+msgid "Address:"
+msgstr ""
+
+#: ../archive-listing.php:227
+msgid "City:"
+msgstr ""
+
+#: ../archive-listing.php:229
+msgid "Zip/Postal:"
+msgstr ""
+
+#: ../archive-listing.php:521
+msgid "For more details on this listing, please add it to your portfolio."
+msgstr ""
+
+#: ../archive-listing.php:523
+msgid ""
+"In order to see more details about this listing, please contact your broker "
+"to become registered."
+msgstr ""
+
+#: ../archive-listing.php:530
+msgid "View Portfolio"
+msgstr ""
+
+#: ../archive-listing.php:534
+msgid "Hide from Portfolio"
+msgstr ""
+
+#: ../archive-listing.php:538
+msgid "Request This Address"
+msgstr ""
+
+#: ../archive-listing.php:544
+msgid "Add to my portfolio"
+msgstr ""
+
+#: ../archive-listing.php:555
+msgid "Listing Broker"
+msgstr ""
+
+#: ../archive-listing.php:583
+msgid "Your Broker"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#: ../page-front.php:36
+msgid "Stylish Page Theme"
+msgstr ""
+
+#: ../page-front.php:40
+msgid "Voluptate Velit Esse - Get Started Today!"
+msgstr ""
+
+#: ../page-front.php:45
+msgid ""
+"Erat dolor purus turpis hymenaeos vel luctus integer consectetuer porttitor "
+"ut."
+msgstr ""
+
+#: ../page-front.php:88
+msgid "Icon 1"
+msgstr ""
+
+#: ../page-front.php:89
+msgid "Icon 2"
+msgstr ""
+
+#: ../page-front.php:90
+msgid "Icon 3"
+msgstr ""
+
+#: ../page-front.php:91
+msgid "Icon 4"
+msgstr ""
+
+#: ../page-front.php:105
+msgid "Web Development"
+msgstr ""
+
+#: ../page-front.php:106
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and typesetting industry. "
+"Lorem Ipsum."
+msgstr ""
+
+#: ../footer.php:16
+msgid "About Company"
+msgstr ""
+
+#: ../footer.php:19
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet "
+"purus rutrum, vestibulum urna a, elementum nulla. Etiam pharetra nisi sit "
+"amet sapien malesuada, non hendrerit arcu pellentesque."
+msgstr ""
+
+#: ../footer.php:26
+msgid "Recent Post"
+msgstr ""
+
+#: ../footer.php:45
+msgid "Sample Content"
+msgstr ""
+
+#: ../footer.php:47
+msgid ""
+"Nam eget placerat justo. Suspendisse quis hendrerit nisl. Nullam eget "
+"malesuada dui. Phasellus auctor, justo eu euismod vestibulum, ex nisl mollis "
+"elit, ut efficitur mauris turpis ullamcorper nisl. Proin eleifend erat "
+"tellus, at feugiat mi pulvinar at."
+msgstr ""
+
+#: ../footer.php:53
+msgid "Get in Touch"
+msgstr ""
+
+#: ../footer.php:62
+msgid "ARINIO GROUP <br /> WZ-290,Plot No.-8, Commodo <br /> Aenean Cursus-100002"
+msgstr ""
+
+#: ../footer.php:94
+msgid "Powered by"
+msgstr ""
+
+#: ../footer.php:94
+msgid "WordPress"
+msgstr ""
+
+#: ../footer.php:94
+msgid "Arinio"
+msgstr "BBCRM"
+
+#. Name of the theme
+msgid "BBCRM Integration"
+msgstr ""
+
+#. Author of the theme
+msgid "BusinessBrokersCRM"
+msgstr ""
+
+#: ../header.php:36
+msgid "Language"
+msgstr "Língua"
+
+#: ../footer.php:92
+msgid "Copyright &#169; 2015 All Rights Reserved."
+msgstr "Copyright &#169; 2015 Todos os direitos reservados."
+
+#: ../footer.php:94
+msgid "Theme by"
+msgstr "Tema por"

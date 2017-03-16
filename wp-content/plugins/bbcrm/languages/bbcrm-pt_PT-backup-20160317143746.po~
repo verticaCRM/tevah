@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Brokers CRM Integration for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Mar 02 2016 13:36:43 GMT+0200 (IST)\n"
+"PO-Revision-Date: Thu Mar 17 2016 14:39:26 GMT+0200 (IST)\n"
+"Last-Translator: marc <marc@marcgottlieb.com>\n"
+"Language-Team: \n"
+"Language: Portuguese (Portugal)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: pt_PT\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "Page Template Plugin"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://hbt.io"
+msgstr ""
+
+#. Author of the plugin
+msgid "Harri Bell-Thomas"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:88 ../functions-bbcrm_template.php:1400 ..
+#: templates/home-search.php:147
+msgid "Search"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:267
+msgctxt "post type general name"
+msgid "Listings"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:268
+msgctxt "post type singular name"
+msgid "Listing"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:269
+msgctxt "admin menu"
+msgid "Listings"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:270
+msgctxt "add new on admin bar"
+msgid "Listing"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:271
+msgctxt "listing"
+msgid "Add New"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:272
+msgid "Add New Listing"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:273
+msgid "New Listing"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:274
+msgid "Edit Listing"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:275
+msgid "View Listing"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:276
+msgid "All Listings"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:277
+msgid "Search Lsitings"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:278
+msgid "Parent Listings:"
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:279
+msgid "No listings found."
+msgstr ""
+
+#: ../functions-bbcrm_wp.php:280
+msgid "No listings found in Trash."
+msgstr ""
+
+#. Name of the plugin
+msgid "Business Brokers CRM Integration for WordPress"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://businessbrokerscrm.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "integration plugin for the BusinessBrokersCRM platform"
+msgstr ""
+
+#. Author of the plugin
+msgid "Marc Gottlieb"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://marcgottlieb.com"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:138
+msgid " of "
+msgstr ""
+
+#: ../functions-bbcrm_template.php:615
+msgid "None"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:616
+msgid " found."
+msgstr ""
+
+#: ../functions-bbcrm_template.php:621
+msgid "Viewing page"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:621
+msgid "of"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:647
+msgid "Prev"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:648
+msgid "Next"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:681
+msgid ""
+"Conditional query tags do not work before the query is run. Before then, "
+"they always return false."
+msgstr ""
+
+#: ../functions-bbcrm_template.php:989
+msgid "Yes"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:994
+msgid "No"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1065
+msgid "Other"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1283
+msgid "Property Type"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1449 ../functions-bbcrm_template.php:1506
+msgid "Any"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1461
+msgid "Any Category"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1652 ../templates/page-brokersearch.php:59 ..
+#: templates/page-broker.php:46
+msgid "Name"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1654
+msgid "Email"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1656
+msgid "Website"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1659
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1662
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1663
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1664
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this "
+"account\">Log out?</a>"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1665
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1666
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1669
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1670
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1671
+msgid "Cancel reply"
+msgstr ""
+
+#: ../functions-bbcrm_template.php:1672
+msgid "Post Comment"
+msgstr ""
+
+#: ../templates/archive-listing.php:161
+msgid "This propery was removed from your portfolio"
+msgstr ""
+
+#: ../templates/archive-listing.php:163 ../templates/page-portfolio.php:154
+msgid "The address of this business is available to you"
+msgstr ""
+
+#: ../templates/archive-listing.php:165
+msgid "This propery is in your portfolio"
+msgstr ""
+
+#: ../templates/archive-listing.php:202
+msgid "Business Details"
+msgstr ""
+
+#: ../templates/archive-listing.php:204
+msgid "Complete Business Profile"
+msgstr ""
+
+#: ../templates/archive-listing.php:211 ../templates/page-portfolio.php:167
+msgid "Listed on:"
+msgstr ""
+
+#: ../templates/archive-listing.php:212 ../templates/page-portfolio.php:166
+msgid "Listing ID:"
+msgstr "ID de listagem:"
+
+#: ../templates/archive-listing.php:213
+msgid "Categories:"
+msgstr ""
+
+#: ../templates/archive-listing.php:214 ../templates/archive-listing.php:228
+msgid "State:"
+msgstr ""
+
+#: ../templates/archive-listing.php:215 ../templates/home-search.php:65 ..
+#: templates/page-portfolio.php:174
+msgid "Asking Price:"
+msgstr ""
+
+#: ../templates/archive-listing.php:216 ../templates/page-portfolio.php:172
+msgid "Gross Revenue:"
+msgstr ""
+
+#: ../templates/archive-listing.php:217 ../templates/home-search.php:76 ..
+#: templates/page-portfolio.php:175
+msgid "Down Payment:"
+msgstr ""
+
+#: ../templates/archive-listing.php:218
+msgid "Terms:"
+msgstr ""
+
+#: ../templates/archive-listing.php:219 ../templates/home-search.php:54 ..
+#: templates/page-portfolio.php:173
+msgid "Owner's Cash Flow:"
+msgstr ""
+
+#: ../templates/archive-listing.php:225
+msgid "Location"
+msgstr ""
+
+#: ../templates/archive-listing.php:226
+msgid "Address:"
+msgstr ""
+
+#: ../templates/archive-listing.php:227
+msgid "City:"
+msgstr ""
+
+#: ../templates/archive-listing.php:229
+msgid "Zip/Postal:"
+msgstr ""
+
+#: ../templates/archive-listing.php:521
+msgid "For more details on this listing, please add it to your portfolio."
+msgstr ""
+
+#: ../templates/archive-listing.php:523
+msgid ""
+"In order to see more details about this listing, please contact your broker "
+"to become registered."
+msgstr ""
+
+#: ../templates/archive-listing.php:530
+msgid "View Portfolio"
+msgstr ""
+
+#: ../templates/archive-listing.php:534
+msgid "Hide from Portfolio"
+msgstr ""
+
+#: ../templates/archive-listing.php:538
+msgid "Request This Address"
+msgstr ""
+
+#: ../templates/archive-listing.php:544 ../templates/page-searchresults.php:200
+msgid "Add to my portfolio"
+msgstr ""
+
+#: ../templates/archive-listing.php:555
+msgid "Listing Broker"
+msgstr ""
+
+#: ../templates/archive-listing.php:583 ../templates/page-brokersearch.php:91 ..
+#: templates/page-broker.php:92
+msgid "Your Broker"
+msgstr ""
+
+#: ../templates/page-buyerreg.php:102 ../templates/page-buyerprofile.php:254
+msgid "Choose A State"
+msgstr ""
+
+#: ../templates/page-buyerreg.php:109
+msgid "Choose A Listing"
+msgstr ""
+
+#: ../templates/page-buyerreg.php:116 ../templates/home-search.php:109
+msgid "Choose A Broker"
+msgstr ""
+
+#: ../templates/home-search.php:1 ../templates/home-featured.php:52 ..
+#: templates/home-featured.php:54
+msgid "Business for Sale"
+msgstr ""
+
+#: ../templates/home-search.php:5
+msgid "Keyword or ID:"
+msgstr ""
+
+#: ../templates/home-search.php:6
+msgid "By State"
+msgstr ""
+
+#: ../templates/home-search.php:18
+msgid "By County"
+msgstr ""
+
+#: ../templates/home-search.php:18
+msgid "Please select"
+msgstr ""
+
+#: ../templates/home-search.php:20
+msgid "By Category"
+msgstr ""
+
+#: ../templates/home-search.php:20
+msgid "Choose one"
+msgstr ""
+
+#: ../templates/home-search.php:61 ../templates/home-search.php:72 ..
+#: templates/home-search.php:83
+msgid "or more"
+msgstr ""
+
+#: ../templates/home-search.php:87
+msgid "Broker:"
+msgstr ""
+
+#: ../templates/page-portfolio.php:110
+msgid "Portfolio for"
+msgstr ""
+
+#: ../templates/page-portfolio.php:151
+msgid "Your request for this address has been sent"
+msgstr ""
+
+#: ../templates/page-portfolio.php:168
+msgid "Region:"
+msgstr ""
+
+#: ../templates/page-portfolio.php:169
+msgid "Financial Info:"
+msgstr ""
+
+#: ../templates/page-portfolio.php:171
+msgid "Gross Sales:"
+msgstr ""
+
+#: ../templates/page-portfolio.php:178
+msgid "Address"
+msgstr ""
+
+#: ../templates/page-portfolio.php:180
+msgid "Business Name: "
+msgstr ""
+
+#: ../templates/page-portfolio.php:181
+msgid "Address: "
+msgstr ""
+
+#: ../templates/page-portfolio.php:183
+msgid "This address was released to you on "
+msgstr ""
+
+#: ../templates/page-portfolio.php:188
+msgid "View Listing Details"
+msgstr ""
+
+#: ../templates/home-featured.php:23
+msgid "Premiere Listing"
+msgstr ""
+
+#: ../templates/home-featured.php:25
+msgid "Featured Listing"
+msgstr ""
+
+#: ../templates/home-featured.php:46
+msgid "Asking:"
+msgstr ""
+
+#: ../templates/loginbar.php:13
+msgid "Remember Me"
+msgstr ""
+
+#: ../templates/page-brokersearch.php:60 ../templates/page-broker.php:48
+msgid "Mobile Phone"
+msgstr ""
+
+#: ../templates/page-brokersearch.php:61
+msgid "Office Phone"
+msgstr ""
+
+#: ../templates/page-brokersearch.php:62
+msgid "Region"
+msgstr ""
+
+#: ../templates/page-broker.php:47
+msgid "Title"
+msgstr ""
+
+#: ../templates/page-broker.php:49
+msgid "Work Phone"
+msgstr ""
+
+#: ../templates/page-broker.php:53
+msgid "Active Since"
+msgstr ""
+
+#: ../templates/page-searchresults.php:193
+msgid "State: "
+msgstr ""
+
+#: ../templates/page-searchresults.php:194
+msgid "Owner's Cash Flow: "
+msgstr ""
+
+#: ../templates/page-searchresults.php:195
+msgid "Asking: "
+msgstr ""
+
+#: ../templates/page-searchresults.php:214
+msgid "Your search for "
+msgstr ""
+
+#: ../templates/page-searchresults.php:220
+msgid " returned "
+msgstr ""
+
+#: ../templates/page-searchresults.php:222
+msgid " result."
+msgstr ""
+
+#: ../templates/page-searchresults.php:222
+msgid " results."
+msgstr ""
+
+#: ../templates/loginbar.php:4
+msgid "Buyer Login"
+msgstr "Entrada Comprador"
+
+#: ../templates/loginbar.php:11
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: ../templates/loginbar.php:12
+msgid "Password"
+msgstr "Senha"
+
+#: ../templates/loginbar.php:14
+msgid "Log In"
+msgstr "Entrar"
+
+#: ../templates/loginbar.php:18
+msgid "Forgot Password"
+msgstr "Esqueceu a senha"
+
+#: ../templates/loginbar.php:19
+msgid "New User"
+msgstr "Novo usuário"
+
+#: ../templates/loginbar.php:21
+msgid "Your Portfolio"
+msgstr "Seu Portfolio"
+
+#: ../templates/loginbar.php:22
+msgid "Your Profile"
+msgstr "Seu Perfil"
+
+#: ../templates/loginbar.php:23
+msgid "Log Out"
+msgstr "Sair"

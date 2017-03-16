@@ -1,0 +1,86 @@
+<?php
+/*********************************************************************************
+ * Copyright (C) 2011-2014 X2Engine Inc. All Rights Reserved.
+ * 
+ * X2Engine Inc.
+ * P.O. Box 66752
+ * Scotts Valley, California 95067 USA
+ * 
+ * Company website: http://www.x2engine.com 
+ * Community and support website: http://www.x2community.com 
+ * 
+ * X2Engine Inc. grants you a perpetual, non-exclusive, non-transferable license 
+ * to install and use this Software for your internal business purposes.  
+ * You shall not modify, distribute, license or sublicense the Software.
+ * Title, ownership, and all intellectual property rights in the Software belong 
+ * exclusively to X2Engine.
+ * 
+ * THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EITHER 
+ * EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF 
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+ ********************************************************************************/
+
+/**
+ * X2FlowAction that starts a workflow stage
+ * 
+ * @package application.components.x2flow.actions
+ */
+abstract class BaseX2FlowWorkflowStageAction extends X2FlowAction {
+	public $title;
+	public $info;
+	
+	public function paramRules() {
+		$workflows = Workflow::getList(false);	// no "none" options
+		$workflowIds = array_keys($workflows);
+		$stages = count($workflowIds)? Workflow::getStagesByNumber($workflowIds[0]) : array('---');
+
+		return array(
+            'title'=>$this->title,
+            'modelClass'=>'modelClass',
+            'modelRequired' => 1,
+			'options' => array(
+				array(
+                    'name'=>'workflowId',
+                    'label'=>'Process',
+                    'type'=>'dropdown',
+                    'options'=>$workflows
+                ),
+				array(
+                    'name'=>'stageNumber',
+                    'label'=>'Stage',
+                    'type'=>'dependentDropdown',
+                    'dependency' => 'workflowId',
+                    'options'=>$stages,
+                    'optionsSource' => Yii::app()->createUrl ('/workflow/workflow/getStageNames')
+                ),
+            )
+		);
+	}
+
+    /**
+     * Validates type of model that triggered the flow
+     */
+    public function validate (&$params=array (), $flowId) {
+        if (!isset ($params['model'])) {
+            return array (false, '');
+        }
+        $model = $params['model'];
+        $modelName = get_class ($model);
+
+        // ensure that model can be associated with workflows
+        if (!$model instanceof X2Model) { 
+            return array (
+                false, 
+                Yii::t('studio', "Processes are not associated with records of this type")
+            );
+        } elseif (!$model->supportsWorkflow) {
+            return array (
+                false, 
+                Yii::t('studio', "{recordName} are not associated with processes", 
+                array ('{recordName}' => ucfirst (X2Model::getRecordName ($modelName))))
+            );
+        }
+        return parent::validate ($params, $flowId);
+    }
+
+}

@@ -1,0 +1,92 @@
+/*
+Theme Name: BBCRM Integration Plugin
+Author: BusinessBrokersCRM
+*/
+
+h1,h2,h3,h4,h5,p,a,input,select,textarea {font-family: 'Lato', Helvetica, sans-serif}
+.blog {padding:0;background-color:initial;}
+.blog .sticky {padding:0 !important;margin:0;background-color:#fff !important}
+.blog.row.m0.single_post , .contentRowPad{padding:0}
+
+header:before { background: rgba(255,255,255,0);}
+header nav .ownmenu {min-height:80px;max-height:85px}
+header .logo {margin:0;padding:0}
+
+ul.left-bar-side {line-height:10px}
+ul.left-bar-side li {display:inline;list-style-type:none}
+.logo img {width:260px !important; height:auto; padding-top: 14px !important;}
+
+.sub-banner .overlay {padding-top:220px;}
+.sub-banner h1 {margin-bottom:220px;}
+.sub-banner .breadcrumb {display:block !important;}
+
+.top-bar .left-bar-side p{line-height:initial}
+
+header nav > ul > li:hover {background:none}
+header nav li.active a {color:#1E8BCB;}
+header nav li:hover a {color:#1E8BCB;}
+header nav li {margin-top:8px;}
+header nav > ul > li.active, header nav > ul > li:hover {
+    background:none!important;
+}
+
+.login-submit{color:#333333}
+
+.all-properties, .home_featured {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+#form1 label{display:block}
+
+
+ul.menu li {display:inline-block;font-size:1em;}
+ul.menu li a {color:#fff;}
+
+.formerr {font-weight:700;color:#9a0000;padding:2px;background-color:#f9efef}
+.brokerprofilebutton{padding:4px;border:0;color:#fff}
+.portfoliobutton{padding:7px;margin:0;line-height:initial;font-size:13px;border:0;color:#fff}
+
+.searchresult{
+	width: 100%;
+	border: 1px solid #aba8a8;
+    margin: 5px 0;
+    padding: 15px;
+	position: relative;
+}
+
+.searchcontact{
+    position: absolute;
+    right: 140px !important;
+    bottom: 20px !important;
+    padding: 3px 10px !important;
+}
+
+.searchmore{
+	position: absolute;
+    right: 10px !important;
+    bottom: 20px !important;
+}
+
+.searchcash{
+	position: absolute;
+    right: 10px !important;
+}
+
+.searchcashflow{
+	position: absolute;
+    right: 10px !important;
+}
+
+.featured_image_thumb {max-width:250px;text-align:right;float:right}
+
+#logindiv {margin:0 !important; display:none; }
+#logindiv input{margin:0 !important; padding:.2em !important;}
+
+.regformfield label {
+	text-align: right;
+	display: inline-block !important;
+	width: 160px !important;
+}
+.regformfield input {width: 170px !important;}

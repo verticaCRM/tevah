@@ -1,0 +1,126 @@
+/*********************************************************************************
+ * Copyright (C) 2011-2014 X2Engine Inc. All Rights Reserved.
+ *
+ * X2Engine Inc.
+ * P.O. Box 66752
+ * Scotts Valley, California 95067 USA
+ *
+ * Company website: http://www.x2engine.com
+ * Community and support website: http://www.x2community.com
+ *
+ * X2Engine Inc. grants you a perpetual, non-exclusive, non-transferable license
+ * to install and use this Software for your internal business purposes.
+ * You shall not modify, distribute, license or sublicense the Software.
+ * Title, ownership, and all intellectual property rights in the Software belong
+ * exclusively to X2Engine.
+ *
+ * THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EITHER
+ * EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+ ********************************************************************************/
+
+@import "colors";
+@import "font-awesome";
+@import "x2-icons";
+
+@mixin x2-icon($name, $placing: 'before'){
+  &:#{$placing} {
+    text-decoration: none;
+
+    @extend .icon-#{$name} !optional;
+    @content;
+  }
+}
+
+/************************************************
+* class to add to a container that has a stacked icon
+***********************************************/
+.stacked-icon {
+    display: none;
+    position: absolute;
+
+    top: 23px;
+    left: 28px;
+
+    width: 11px;
+    height: 11px;
+
+    border-radius: 50%;
+    border: 2px solid $darkBlue;
+    background: white;
+
+    /* @theme border-color lighter_link */
+    /* @theme background content */
+
+    text-align: center;
+
+    &:before {
+    	width:100%;
+        font-size: 10px;
+        position: relative;
+    }
+}
+
+/*********************************
+* Mixin to aid with the stacked icon
+********************************/
+@mixin stacked-icon($icon) {
+
+    // Specific corrections / positioning can go here
+    %default {top: 0px; left: 0px;}
+    %plus {top: 1.0px; left: 0px;}
+    %check {top: 1px; left: 0px;}
+    %exclamation{top: 1px; left: 0px;}
+    %arrow-right{top: 0.5px; left: 1px;}
+    %star{top: 1px; left: 0px;}
+    %undo{top: 1px}
+    %arrow-up {}
+
+    .stacked-icon {
+        display: inline-block;
+        @include fa-icon($icon);
+    }
+
+    .stacked-icon:before {
+        position: absolute;
+        font-size: 10px;
+        @extend %default;
+
+        // optional settings for individual icons
+        @extend %#{$icon} !optional;
+    }
+}
+
+/****************************************************
+* Mixin to generate a mapping of classes to icons
+* $list:  A multidimensional array
+: $type: which icon font to use ("fa" or "x2")
+: @content: extra rules to insert into each icon
+* Example: 
+*   $map: (
+*   	("email" "envelope" "check") 
+*   );
+* Will create the rule for '.email' to have the icon 
+* 'envelope' with a stacked icon of 'check'
+*
+* These icons are currently used in activity feed and publisher 
+*******************************************************/
+@mixin generate-icons($list, $type:"fa") {
+	@each $entry in $list {
+	    $selector: nth($entry, 1);
+	    $icon: nth($entry, 2);
+
+	    &.#{$selector} { 
+	    	@if $type == "fa" {
+		        @include fa-icon ($icon) { @content };
+	    	} 
+	    	@else {
+		        @include x2-icon ($icon) { @content };
+	    	}
+
+	        @if length($entry) == 3 {
+	            @include stacked-icon (nth($entry, 3));
+	        }
+	    }
+	}
+}

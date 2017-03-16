@@ -1,0 +1,394 @@
+/*********************************************************************************
+ * Copyright (C) 2011-2014 X2Engine Inc. All Rights Reserved.
+ *
+ * X2Engine Inc.
+ * P.O. Box 66752
+ * Scotts Valley, California 95067 USA
+ *
+ * Company website: http://www.x2engine.com
+ * Community and support website: http://www.x2community.com
+ *
+ * X2Engine Inc. grants you a perpetual, non-exclusive, non-transferable license
+ * to install and use this Software for your internal business purposes.
+ * You shall not modify, distribute, license or sublicense the Software.
+ * Title, ownership, and all intellectual property rights in the Software belong
+ * exclusively to X2Engine.
+ *
+ * THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EITHER
+ * EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+ ********************************************************************************/
+/* @edition:pro */
+/*********************************************************************************
+ * Copyright (C) 2011-2014 X2Engine Inc. All Rights Reserved.
+ *
+ * X2Engine Inc.
+ * P.O. Box 66752
+ * Scotts Valley, California 95067 USA
+ *
+ * Company website: http://www.x2engine.com
+ * Community and support website: http://www.x2community.com
+ *
+ * X2Engine Inc. grants you a perpetual, non-exclusive, non-transferable license
+ * to install and use this Software for your internal business purposes.
+ * You shall not modify, distribute, license or sublicense the Software.
+ * Title, ownership, and all intellectual property rights in the Software belong
+ * exclusively to X2Engine.
+ *
+ * THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT WARRANTIES OF ANY KIND, EITHER
+ * EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF
+ * MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+ ********************************************************************************/
+/***********************************************************************
+* Grays 
+***********************************************************************/
+/***********************************************************************
+* Blues
+***********************************************************************/
+/***********************************************************************
+* Reds 
+***********************************************************************/
+/***********************************************************************
+* Greens 
+***********************************************************************/
+/***********************************************************************
+* This section is made to correspond with the theme keys in ThemeGenerator
+***********************************************************************/
+/* line 24, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#content {
+  max-width: 100%;
+  min-height: 800px;
+  padding-bottom: 0 !important;
+}
+
+/* line 30, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container {
+  width: auto;
+  overflow: hidden;
+  min-height: 816px;
+}
+/* line 34, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container.inline-graph {
+  min-height: 0;
+}
+/* line 39, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg.hide-labels .label {
+  display: none;
+}
+/* line 43, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .node, #relationships-graph-container > svg .edge {
+  cursor: pointer;
+}
+/* line 46, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .edge + line {
+  cursor: pointer;
+}
+/* line 49, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .edge.active {
+  stroke: black;
+}
+/* line 52, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .node.active {
+  stroke: black;
+  stroke-width: 3px;
+}
+/* line 56, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .label {
+  cursor: pointer;
+}
+/* line 59, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .label.active rect {
+  opacity: 0.9;
+  stroke: black;
+  stroke-width: 1px;
+}
+/* line 64, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .label.active text {
+  font-weight: bold;
+}
+/* line 68, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .label rect {
+  stroke-width: 0.5px;
+  fill: white;
+  opacity: 0.8;
+}
+/* line 72, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .label rect.hover {
+  fill: #dbdbdb;
+}
+/* line 76, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-container > svg .label text {
+  opacity: 1;
+  fill: black;
+  stroke: none;
+  font-family: Verdana;
+}
+
+/* line 87, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+.x2-qtip .qtip-content {
+  padding: 0;
+}
+/* line 89, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+.x2-qtip .qtip-content .graph-qtip-inner {
+  min-width: 100px;
+}
+/* line 92, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+.x2-qtip .qtip-content .qtip-record-details {
+  padding: 3px 5px;
+}
+/* line 95, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+.x2-qtip .qtip-content .view-record-button {
+  display: block;
+  margin: 0;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  border-radius: 0;
+}
+
+/* line 106, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#hints-show-button {
+  position: fixed;
+  right: 230px;
+  top: 45px;
+  font-size: 20px;
+  color: rgba(0, 0, 255, 0.53);
+  cursor: pointer;
+}
+/* line 114, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#hints-show-button:hover {
+  color: rgba(77, 77, 255, 0.53);
+}
+
+/* line 119, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar {
+  padding: 8px;
+  position: relative;
+  float: right;
+  width: 200px;
+  height: 100%;
+  min-height: 803px;
+  background: #E3E3E3;
+}
+/* line 127, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .button-container {
+  text-align: center;
+}
+/* line 129, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .button-container button {
+  display: inline-block;
+  width: 94px;
+  padding: 0;
+}
+/* line 135, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .toolbar-box {
+  background: #f9f9f9;
+  border: 1px solid #c5c5c5;
+  margin-bottom: 5px;
+}
+/* line 140, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .add-node-box {
+  margin-top: 16px;
+  margin-bottom: 11px;
+  background: none;
+  padding: 9px 5px;
+}
+/* line 145, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .add-node-box .form2 {
+  background: none;
+}
+/* line 148, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .add-node-box select {
+  width: 100%;
+}
+/* line 151, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .add-node-box input {
+  box-sizing: border-box;
+  width: 100%;
+}
+/* line 155, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .add-node-box input, #relationships-graph-toolbar .add-node-box button {
+  margin-top: 4px;
+}
+/* line 158, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .add-node-box button {
+  margin-bottom: 0;
+  width: 100%;
+}
+/* line 163, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-hints-box {
+  padding: 7px 5px;
+  background: #D9D9D9;
+}
+/* line 166, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-hints-box h2 {
+  color: black;
+  margin: 0;
+  float: left;
+}
+/* line 171, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-hints-box .hints-close-button {
+  float: right;
+  cursor: pointer;
+}
+/* line 175, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-hints-box ul {
+  margin-right: 0;
+  font-size: 12px;
+  margin-top: 6px;
+}
+/* line 181, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .toolbar-spacer {
+  margin-bottom: 30px;
+}
+/* line 184, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .record-detail-box {
+  height: 240px;
+  overflow-y: auto;
+}
+/* line 187, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .record-detail-box .record-details {
+  background: none;
+  padding: 7px 5px;
+}
+/* line 188, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .record-detail-box .record-details .title {
+  font-weight: bold;
+  color: #222;
+}
+/* line 194, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .record-detail-box .record-details h2 {
+  margin: 0;
+}
+/* line 196, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .record-detail-box .record-details h2 a {
+  text-decoration: none;
+}
+/* line 200, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .record-detail-box .record-details label {
+  min-width: 45px;
+  display: inline-block;
+}
+/* line 206, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .x2-button {
+  margin: 0;
+  width: 95%;
+  margin: auto;
+  margin-bottom: 5px;
+}
+/* line 212, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-legend {
+  overflow: auto;
+  padding: 7px;
+  padding-left: 15px;
+  margin-top: 12px;
+  max-height: 142px;
+}
+/* line 218, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-legend ul {
+  padding: 0;
+  list-style-type: none;
+  margin: 0;
+  margin-bottom: 15px;
+}
+/* line 223, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-legend ul li {
+  cursor: pointer;
+  padding: 0px 2px;
+}
+/* line 226, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-legend ul li .legend-swatch {
+  position: relative;
+  top: -1px;
+  display: inline-block;
+  height: 7px;
+  width: 7px;
+  border-radius: 7px;
+}
+/* line 234, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-toolbar .graph-legend ul li:hover {
+  background: #e7e7e7;
+}
+
+/* line 242, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls {
+  position: absolute;
+  right: 227px;
+  bottom: 8px;
+  width: 100px;
+  height: 62px;
+  border: 2px solid #D9D9D9;
+  background: rgba(255, 255, 255, 0.46);
+  border-radius: 3px;
+}
+/* line 251, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .icon-button {
+  cursor: pointer;
+  position: absolute;
+  color: gray;
+}
+/* line 255, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .icon-button:hover {
+  color: #676767;
+}
+/* line 259, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .panning-buttons-container {
+  position: relative;
+  height: 57px;
+  width: 57px;
+  float: left;
+}
+/* line 261, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .panning-buttons-container .pan-up-button {
+  left: 24px;
+  top: 7px;
+}
+/* line 265, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .panning-buttons-container .pan-down-button {
+  top: 40px;
+  left: 24px;
+}
+/* line 269, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .panning-buttons-container .pan-left-button {
+  top: 25px;
+  left: 9px;
+}
+/* line 273, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .panning-buttons-container .pan-right-button {
+  top: 25px;
+  left: 43px;
+}
+/* line 281, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .zoom-buttons-container {
+  position: relative;
+  width: 21px;
+  float: right;
+}
+/* line 285, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .zoom-buttons-container .zoom-in-button {
+  top: 11px;
+  right: 11px;
+}
+/* line 289, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#graph-nav-controls .zoom-buttons-container .zoom-out-button {
+  top: 36px;
+  right: 11px;
+}
+
+/* line 296, ../../../../compass/themes/x2engine/css/components/RelationshipsGraph.scss */
+#relationships-graph-resize-handle {
+  cursor: se-resize;
+  display: block;
+  height: 0px;
+  width: 0px;
+  float: right;
+  position: relative;
+  margin-bottom: -12px;
+  top: -16px;
+  margin-right: 4px;
+  border: 6px solid #c5c5c5;
+  box-sizing: border-box;
+  border-left: 6px solid transparent;
+  border-top: 6px solid transparent;
+  background: transparent;
+}

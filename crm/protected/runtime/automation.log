@@ -1,0 +1,18 @@
+2015/11/05 12:27:01 [trace] [application.automation.cron] Cron request made from 109.226.26.160
+2015/11/05 12:27:02 [trace] [application.automation.cron] Processed 16 cron events.
+2015/11/05 12:27:02 [trace] [application.automation.cron] Ran marketing batch emailer. There is no campaign email to send.
+No email sent.
+2015/11/05 13:27:14 [trace] [application.automation.cron] Cron request made from 109.226.26.160
+2015/11/05 13:27:14 [trace] [application.automation.cron] Ran marketing batch emailer. There is no campaign email to send.
+No email sent.
+2015/11/05 16:04:09 [trace] [application.automation.cron] Cron request made from 66.102.9.51
+2015/11/05 16:04:09 [trace] [application.automation.cron] Ran marketing batch emailer. There is no campaign email to send.
+No email sent.
+2015/11/05 19:24:24 [trace] [application.automation.cron] Cron request made from 66.249.81.234
+2015/11/05 19:24:24 [trace] [application.automation.cron] Processed 1 cron events.
+2015/11/05 19:24:24 [trace] [application.automation.cron] Ran marketing batch emailer. There is no campaign email to send.
+No email sent.
+2015/11/07 17:47:25 [trace] [application.automation.cron] Cron request made from 66.249.93.228
+2015/11/07 17:47:25 [trace] [application.automation.cron] Processed 1 cron events.
+2015/11/07 17:47:25 [trace] [application.automation.cron] Ran marketing batch emailer. There is no campaign email to send.
+No email sent.

@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a79561e1-c9c0-40c4-84a3-c62811add0ca" name="Default" comment="" />
+    <ignored path="crm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="crm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_inlineSellerMapsWidget.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineSellerMapsWidget.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="841" column="38" selection-start="38753" selection-end="38763" vertical-scroll-proportion="-13.02" vertical-offset="5529" max-vertical-offset="10695">
+              <folding>
+                <element signature="e#4824#8094#0" expanded="false" />
+                <element signature="e#8299#12814#0" expanded="false" />
+                <element signature="e#12916#15839#0" expanded="false" />
+                <element signature="e#15867#20892#0" expanded="false" />
+                <element signature="e#20932#21667#0" expanded="false" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_inlineBuyerMapsWidget.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineBuyerMapsWidget.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="833" column="48" selection-start="37204" selection-end="37204" vertical-scroll-proportion="0.67241377" vertical-offset="5520" max-vertical-offset="8250">
+              <folding>
+                <element signature="e#4782#7779#0" expanded="false" />
+                <element signature="e#7975#12111#0" expanded="false" />
+                <element signature="e#12207#14993#0" expanded="false" />
+                <element signature="e#15013#19517#0" expanded="false" />
+                <element signature="e#19549#20212#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RecordViewWidgetManager.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/RecordViewWidgetManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="178" column="21" selection-start="7127" selection-end="7127" vertical-scroll-proportion="0.0" vertical-offset="2670" max-vertical-offset="3930">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InlineSellerMapsWidget.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineSellerMapsWidget.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="178" column="101" selection-start="6496" selection-end="6496" vertical-scroll-proportion="0.0" vertical-offset="2670" max-vertical-offset="5760">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InlineBuyerMapsWidget.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineBuyerMapsWidget.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="203" column="54" selection-start="7671" selection-end="7752" vertical-scroll-proportion="0.0" vertical-offset="3045" max-vertical-offset="5985">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/X2Forms.js" />
+        <option value="$PROJECT_DIR$/protected/modules/clistings/views/clistings/update.php" />
+        <option value="$PROJECT_DIR$/protected/modules/x2Leads/controllers/X2LeadsController.php" />
+        <option value="$USER_HOME$/Desktop/biblioteca/clienti/compleo/prodentis/wp-content/plugins/programari/gcfunctions.php" />
+        <option value="$USER_HOME$/Desktop/biblioteca/clienti/compleo/prodentis/wp-content/plugins/screen.php" />
+        <option value="$USER_HOME$/Desktop/biblioteca/clienti/compleo/prodentis/screen.php" />
+        <option value="$PROJECT_DIR$/protected/modules/seller/controllers/SellerController.php" />
+        <option value="$PROJECT_DIR$/protected/modules/contacts/controllers/ContactsController.php" />
+        <option value="$PROJECT_DIR$/custom/protected/modules/x2Leads/controllers/X2LeadsController.php" />
+        <option value="$PROJECT_DIR$/protected/modules/clistings/assets/js/clistings.js" />
+        <option value="$USER_HOME$/Desktop/biblioteca/clienti/betaimpex/product.tpl" />
+        <option value="$PROJECT_DIR$/custom/protected/models/ListingMapsModel.php" />
+        <option value="$PROJECT_DIR$/js/sortableWidgets/InlineListingMapsWidget.js" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineListingMapsWidget.php" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/views/_inlineListingMapsWidget.php" />
+        <option value="$PROJECT_DIR$/protected/models/ListingMapsModel.php" />
+        <option value="$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views/inlineListingMapsWidget.css" />
+        <option value="$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineListingBuyersWidget.php" />
+        <option value="$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineListingMapsWidget.php" />
+        <option value="$PROJECT_DIR$/js/sortableWidgets/InlineBuyerMapsWidget.js" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/views/_inlineBuyerMapsWidget.php" />
+        <option value="$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views/inlineBuyerMapsWidget.css" />
+        <option value="$PROJECT_DIR$/js/sortableWidgets/InlineSellerMapsWidget.js" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/views/_inlineSellerMapsWidget.php" />
+        <option value="$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views/inlineSellerMapsWidget.css" />
+        <option value="$PROJECT_DIR$/protected/models/SellerMapsModel.php" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineListingBuyersWidget.php" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineBuyersPortfolioWidget.php" />
+        <option value="$PROJECT_DIR$/custom/protected/models/ListingBuyersModel.php" />
+        <option value="$PROJECT_DIR$/custom/protected/models/BuyerMapsModel.php" />
+        <option value="$PROJECT_DIR$/protected/models/BuyerMapsModel.php" />
+        <option value="$PROJECT_DIR$/custom/protected/models/SellerMapsModel.php" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/RecordViewWidgetManager.php" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineBuyerMapsWidget.php" />
+        <option value="$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineSellerMapsWidget.php" />
+        <option value="$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineSellerMapsWidget.php" />
+        <option value="$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineBuyerMapsWidget.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sortableWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sortableWidget" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recordViewWidgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sortableWidgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="vcs.Subversion" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/protected/models" />
+      <recent name="$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views" />
+      <recent name="$PROJECT_DIR$/protected/components/sortableWidget/views" />
+      <recent name="$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets" />
+      <recent name="$PROJECT_DIR$/js/sortableWidgets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a79561e1-c9c0-40c4-84a3-c62811add0ca" name="Default" comment="" />
+      <created>1455801849247</created>
+      <updated>1455801849247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18051118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28511965" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28511965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298647" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23961662" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/protected/modules/contacts/models/Contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="80" selection-start="5017" selection-end="5023" vertical-scroll-proportion="-3.8754246" vertical-offset="5537" max-vertical-offset="6420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/seller/models/Seller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/contacts/models/X2List.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-8.236608" vertical-offset="7380" max-vertical-offset="12210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/seller/controllers/SellerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="22" selection-start="4307" selection-end="4307" vertical-scroll-proportion="0.01650165" vertical-offset="1095" max-vertical-offset="3000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/contacts/controllers/ContactsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="651" column="51" selection-start="28023" selection-end="28023" vertical-scroll-proportion="0.31808037" vertical-offset="9195" max-vertical-offset="20490" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/x2Leads/models/X2Leads.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="61" selection-start="2771" selection-end="2771" vertical-scroll-proportion="0.77557755" vertical-offset="255" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/x2Leads/controllers/X2LeadsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="5" selection-start="5763" selection-end="5763" vertical-scroll-proportion="-0.97508496" vertical-offset="3066" max-vertical-offset="4770" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/modules/x2Leads/controllers/X2LeadsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="25" selection-start="2284" selection-end="2284" vertical-scroll-proportion="0.01650165" vertical-offset="540" max-vertical-offset="5670" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/clistings/models/Clistings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="33" selection-start="2310" selection-end="2310" vertical-scroll-proportion="0.31353134" vertical-offset="360" max-vertical-offset="1800" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/biblioteca/clienti/betaimpex/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="28" selection-start="555" selection-end="555" vertical-scroll-proportion="0.2845982" vertical-offset="0" max-vertical-offset="12945" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/biblioteca/clienti/betaimpex/product.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="181" column="63" selection-start="8567" selection-end="8567" vertical-scroll-proportion="0.87053573" vertical-offset="1935" max-vertical-offset="14715" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/clistings/assets/js/clistings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="293" column="28" selection-start="11901" selection-end="11901" vertical-scroll-proportion="0.41345093" vertical-offset="2580" max-vertical-offset="4485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compass/themes/x2engine/css/components/sortableWidget/views/inlineListingBuyersWidget.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="7" selection-start="1028" selection-end="1028" vertical-scroll-proportion="-4.1836734" vertical-offset="140" max-vertical-offset="2985" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/views/_inlineListingBuyersWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="75" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-8.541667" vertical-offset="125" max-vertical-offset="4665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views/inlineListingBuyersWidget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="96" selection-start="2925" selection-end="2925" vertical-scroll-proportion="0.0" vertical-offset="485" max-vertical-offset="3885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineListingBuyersWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="2" selection-start="3321" selection-end="3321" vertical-scroll-proportion="0.6270627" vertical-offset="900" max-vertical-offset="5265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sortableWidgets/InlineBuyerMapsWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="21" selection-start="1994" selection-end="1994" vertical-scroll-proportion="0.4128114" vertical-offset="608" max-vertical-offset="4020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views/inlineBuyerMapsWidget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="72" selection-start="2680" selection-end="2680" vertical-scroll-proportion="0.22597864" vertical-offset="653" max-vertical-offset="3885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/views/_inlineBuyerMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="27" selection-start="3478" selection-end="3478" vertical-scroll-proportion="2.4219332" vertical-offset="212" max-vertical-offset="4665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compass/themes/x2engine/css/components/sortableWidget/views/inlineListingMapsWidget.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2985" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sortableWidgets/InlineSellerMapsWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="72" selection-start="1664" selection-end="1664" vertical-scroll-proportion="0.11921708" vertical-offset="608" max-vertical-offset="4020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/views/_inlineListingMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="75" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-8.541667" vertical-offset="125" max-vertical-offset="4665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/views/_inlineSellerMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="262" column="24" selection-start="8435" selection-end="8435" vertical-scroll-proportion="4.9052043" vertical-offset="1291" max-vertical-offset="4665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views/inlineListingMapsWidget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="96" selection-start="2925" selection-end="2925" vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="3885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/x2engine/css/components/sortableWidget/views/inlineSellerMapsWidget.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="18" selection-start="6224" selection-end="6237" vertical-scroll-proportion="-2.1227758" vertical-offset="3323" max-vertical-offset="3885" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineListingMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="1794" selection-end="1794" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="4080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineListingMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="23" selection-start="3865" selection-end="3880" vertical-scroll-proportion="-0.19419643" vertical-offset="2004" max-vertical-offset="6390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineListingBuyersWidget_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.359736" vertical-offset="2145" max-vertical-offset="4665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/models/BuyersPortfolioModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.1168385" vertical-offset="975" max-vertical-offset="5550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/SellerMapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="62" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.016930023" vertical-offset="45" max-vertical-offset="5865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineListingBuyersWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="285" column="0" selection-start="11674" selection-end="11674" vertical-scroll-proportion="3.559152" vertical-offset="1086" max-vertical-offset="4365" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineBuyersPortfolioWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="293" column="0" selection-start="12041" selection-end="12041" vertical-scroll-proportion="0.98102677" vertical-offset="3516" max-vertical-offset="4485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/BuyerMapsModel_test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/ListingBuyersModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="17" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.016930023" vertical-offset="390" max-vertical-offset="5865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/ListingMapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="6" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.016930023" vertical-offset="90" max-vertical-offset="5865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/BuyersPortfolioModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="0" selection-end="13791" vertical-scroll-proportion="-23.75" vertical-offset="0" max-vertical-offset="5550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/models/ListingMapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="6" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.11851016" vertical-offset="0" max-vertical-offset="5865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/models/ListingBuyersModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="227" column="77" selection-start="6537" selection-end="6537" vertical-scroll-proportion="0.77878106" vertical-offset="2430" max-vertical-offset="5865" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineListingDetailsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="0" selection-start="3564" selection-end="3564" vertical-scroll-proportion="0.48109967" vertical-offset="795" max-vertical-offset="3840" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/BuyerMapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="71" selection-start="6311" selection-end="6311" vertical-scroll-proportion="0.85005903" vertical-offset="2325" max-vertical-offset="5835" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sortableWidgets/InlineListingMapsWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="5" selection-start="2045" selection-end="2045" vertical-scroll-proportion="0.5220126" vertical-offset="583" max-vertical-offset="4020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sortableWidgets/InlineListingBuyersWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="41" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.8883648" vertical-offset="230" max-vertical-offset="4020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/sortableWidgets/InlineBuyersPortfolioWidget.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="0" selection-start="4828" selection-end="4828" vertical-scroll-proportion="0.0" vertical-offset="1650" max-vertical-offset="4035" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/models/BuyerMapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="0" selection-start="0" selection-end="13949" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="6165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineBuyersPortfolioWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="440" column="49" selection-start="16876" selection-end="16876" vertical-scroll-proportion="0.15922108" vertical-offset="6461" max-vertical-offset="7380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/models/SellerMapsModel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="31" selection-start="1251" selection-end="1251" vertical-scroll-proportion="-1.7525773" vertical-offset="2040" max-vertical-offset="6165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/RecordViewWidgetManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="21" selection-start="7127" selection-end="7127" vertical-scroll-proportion="0.0" vertical-offset="2670" max-vertical-offset="3930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineSellerMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="178" column="101" selection-start="6496" selection-end="6496" vertical-scroll-proportion="0.0" vertical-offset="2670" max-vertical-offset="5760">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/sortableWidget/recordViewWidgets/InlineBuyerMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="203" column="54" selection-start="7671" selection-end="7752" vertical-scroll-proportion="0.0" vertical-offset="3045" max-vertical-offset="5985">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineSellerMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="841" column="38" selection-start="38753" selection-end="38763" vertical-scroll-proportion="-13.02" vertical-offset="5529" max-vertical-offset="10695">
+          <folding>
+            <element signature="e#4824#8094#0" expanded="false" />
+            <element signature="e#8299#12814#0" expanded="false" />
+            <element signature="e#12916#15839#0" expanded="false" />
+            <element signature="e#15867#20892#0" expanded="false" />
+            <element signature="e#20932#21667#0" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom/protected/components/sortableWidget/views/_inlineBuyerMapsWidget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="833" column="48" selection-start="37204" selection-end="37204" vertical-scroll-proportion="0.67241377" vertical-offset="5520" max-vertical-offset="8250">
+          <folding>
+            <element signature="e#4782#7779#0" expanded="false" />
+            <element signature="e#7975#12111#0" expanded="false" />
+            <element signature="e#12207#14993#0" expanded="false" />
+            <element signature="e#15013#19517#0" expanded="false" />
+            <element signature="e#19549#20212#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

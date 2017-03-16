@@ -1,0 +1,4 @@
+
+#<X2CRM>
+@hourly curl http://goldentreebrokers.com/crm/index.php/api/x2cron &>/dev/null #@X2CRM@default#@X2CRM@Run delayed or recurring tasks within X2Engine using the scheduled tasks request URL
+#</X2CRM>

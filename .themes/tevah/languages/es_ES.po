@@ -1,0 +1,642 @@
+# Copyright (C) 2015 Sami Keijonen
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tevah Lite 1.0.7\n"
+"Report-Msgid-Bugs-To: https://foxland.fi/contact/\n"
+"POT-Creation-Date: 2015-07-12 12:42+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-09 20:11+0300\n"
+"Last-Translator: Sami Keijonen <sami.keijonen@foxnet.fi>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se ha podido encontrar la página."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Parece que no se ha encontrado nada en esta ubicación. Puedes probar con uno "
+"de los siguientes enlaces o realizar una búsqueda."
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Categorías más utilizadas"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prueba buscando en los archivos mensuales. %1$s"
+
+#: archive-jetpack-testimonial.php:48 index.php:35 search.php:28
+msgid "Previous page"
+msgstr "Página anterior"
+
+#: archive-jetpack-testimonial.php:49 index.php:36 search.php:29
+msgid "Next page"
+msgstr "Página siguiente"
+
+#: archive-jetpack-testimonial.php:50 content-audio.php:40
+#: content-child-pages.php:40 content-jetpack-portfolio.php:40
+#: content-page.php:36 content-video.php:40 content.php:40 image.php:38
+#: index.php:37 search.php:30
+msgid "Page"
+msgstr "Página"
+
+#: area-testimonial.php:25
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: comments.php:29
+msgid "Leave a comment"
+msgstr "Dejar un comentario"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-aside.php:28 content-audio.php:47 content-link.php:50
+#: content-status.php:30 content-video.php:47 content.php:47
+msgid "Posted in %s"
+msgstr "Publicado en %s"
+
+#: content-aside.php:29 content-audio.php:48 content-jetpack-portfolio.php:48
+#: content-link.php:51 content-status.php:31 content-video.php:48
+#: content.php:48
+msgid "Tagged %s"
+msgstr "Etiquetado %s"
+
+#. translators: %s: Name of current post
+#. Translators: The %s is the post title shown to screen readers.
+#: content-audio.php:33 content-child-pages.php:33
+#: content-jetpack-portfolio.php:33 content-jetpack-testimonial.php:23
+#: content-jetpack-testimonial.php:68 content-link.php:42 content-page.php:29
+#: content-video.php:33 content.php:33 functions.php:272
+msgid "Read more %s"
+msgstr "Leer más %s"
+
+#: content-audio.php:38 content-child-pages.php:38
+#: content-jetpack-portfolio.php:38 content-page.php:34 content-video.php:38
+#: content.php:38 image.php:36
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: content-jetpack-portfolio.php:47
+msgid "Portfolio in %s"
+msgstr "Portfolio en %s"
+
+#: content-none.php:16
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: content-none.php:22
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Preparado para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</"
+"a>."
+
+#: content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo siento, pero nada coincide con tu búsqueda. Por favor, inténtalo de nuevo "
+"con algunas palabras clave diferentes."
+
+#: content-none.php:35
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Es posible que la "
+"búsqueda te pueda ayudar."
+
+#: footer.php:25
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "Funciona con %s"
+
+#: footer.php:27
+msgid "Theme %1$s by %2$s"
+msgstr "Tema %1$s por %2$s"
+
+#: functions.php:121
+msgid ""
+"The main sidebar. It is displayed on the right or left side of the page."
+msgstr ""
+"La barra lateral principal. Se muestra en el lado derecho o izquierdo de la "
+"página."
+
+#: functions.php:131
+msgid "A sidebar located in the footer of the site."
+msgstr "Una barra lateral situada en la parte de abajo del sitio."
+
+#: functions.php:141
+msgid "A sidebar located in the Front Page Template."
+msgstr "Una barra lateral situada en la plantilla de la página principal."
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "Salta al contenido"
+
+#: header.php:33 menu-top.php:11 menu-top.php:12
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: header.php:37 menu-social.php:11 menu-social.php:12
+msgid "Social Menu"
+msgstr "Menú social"
+
+#: header.php:94
+msgid "Breadcrumbs"
+msgstr "Enlaces de ayuda a la navegación"
+
+#: inc/breadcrumb-trail.php:177
+msgid "Browse:"
+msgstr "Navegar:"
+
+#: inc/breadcrumb-trail.php:178
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/breadcrumb-trail.php:179
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: inc/breadcrumb-trail.php:180
+msgid "Archives"
+msgstr "Archivos"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumb-trail.php:182 loop-meta.php:17
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Resultado de la búsqueda &#8220;%s&#8221;"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumb-trail.php:184
+msgid "Page %s"
+msgstr "Página %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumb-trail.php:186
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumb-trail.php:188
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Header image description.
+#: inc/custom-header.php:30
+msgid "Default Header Image"
+msgstr "Imagen de la cabecera predeterminada"
+
+#: inc/customizer.php:24
+msgid "Theme Settings"
+msgstr "Configuración del tema"
+
+#: inc/customizer.php:35
+msgid "Layouts"
+msgstr "Diseños"
+
+#: inc/customizer.php:51
+msgid "1 Column"
+msgstr "1 Columna"
+
+#: inc/customizer.php:52
+msgid "2 Columns: Content / Sidebar"
+msgstr "2 Columnas: Contenido / Barra lateral"
+
+#: inc/customizer.php:53
+msgid "2 Columns: Sidebar / Content"
+msgstr "2 Columnas: Barra lateral / Contenido"
+
+#: inc/customizer.php:60
+msgid "Global Layout"
+msgstr "Diseño Global"
+
+#: inc/customizer.php:74
+msgid "Front Page Settings"
+msgstr "Configuración de la página principal"
+
+#: inc/customizer.php:75
+msgid ""
+"Callout at the top. <a href=\"%s\" target=\"_blank\">Upgrade to Tevah (Pro)</"
+"a> for adding similar Callout section at the bottom."
+msgstr ""
+"Aviso en la parte superior. <a href=\"%s\" target=\"_blank\">Actualiza a "
+"Tevah (Pro)</a> para añadir un aviso similar en la parte inferior."
+
+#: inc/customizer.php:115
+msgid "%s Callout title"
+msgstr "%s Título del aviso"
+
+#: inc/customizer.php:135
+msgid "%s Callout text"
+msgstr "%s Texto del aviso"
+
+#: inc/customizer.php:155
+msgid "%s Callout URL"
+msgstr "%s URL del aviso"
+
+#: inc/customizer.php:175
+msgid "%s Callout URL text"
+msgstr "%s Texto del URL del aviso"
+
+#: inc/customizer.php:201
+msgid "Hide testimonials"
+msgstr "Ocultar testimonios"
+
+#: inc/customizer.php:202
+msgid ""
+"Check this if you want to hide testimonials from the Front Page Template."
+msgstr ""
+"Marca esto si quieres ocultar los testimonios desde la plantilla de la "
+"página principal."
+
+#: inc/customizer.php:221
+msgid "Testimonials after featured area"
+msgstr "Testimonios después del área de destacados"
+
+#: inc/customizer.php:222
+msgid ""
+"Check this if you want to move testimonials after Featured area in the Front "
+"Page Template."
+msgstr ""
+"Marca esto si quieres mover los testimonios después del área de destacados "
+"en la plantilla de la página principal."
+
+#. Template Name of the plugin/theme
+msgid "Child Pages"
+msgstr "Páginas secundarias"
+
+#: inc/customizer.php:242
+msgid "Blog Posts"
+msgstr "Entradas del blog"
+
+#: inc/customizer.php:243
+msgid "Portfolios"
+msgstr "Portfolios"
+
+#: inc/customizer.php:250
+msgid "Featured Content"
+msgstr "Contenido destacado"
+
+#: inc/customizer.php:251
+msgid ""
+"Select do you want to feature Child Pages, Blog Posts or Portfolios in Front "
+"Page."
+msgstr ""
+"Selecciona las páginas, entradas del blog o portfolios que quieres destacar "
+"en la página principal."
+
+#: inc/customizer.php:271
+msgid "Callout Image"
+msgstr "Imagen de aviso"
+
+#: inc/customizer.php:272
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Upgrade to Tevah (Pro)</a> for adding "
+"Callout Image."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Actualiza a Tevah (Pro)</a> para añadir una "
+"imagen de aviso."
+
+#: inc/customizer.php:285
+msgid "Background Settings"
+msgstr "Configuración del fondo"
+
+#: inc/customizer.php:304
+msgid "Header Background Color"
+msgstr "Color de la cabecera del fondo"
+
+#: inc/customizer.php:325
+msgid "Header Color Opacity."
+msgstr "Opacidad del color de la cabecera."
+
+#: inc/customizer.php:326
+msgid "Set Header Color opacity."
+msgstr "Establece la opacidad del color de la cabecera."
+
+#: inc/customizer.php:350
+msgid "Subsidiary Sidebar Background"
+msgstr "Barra lateral subsidiaria del fondo"
+
+#: inc/customizer.php:351
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Upgrade to Tevah (Pro)</a> for adding "
+"Subsidiary Sidebar Background Image and Color."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Actualiza a Tevah (Pro)</a> para añadir "
+"imagen y color a la barra lateral subsidiaria."
+
+#: inc/customizer.php:367
+msgid "Portfolio Settings"
+msgstr "Configuración del Portfolio"
+
+#: inc/customizer.php:388
+msgid "Portfolio Page Title"
+msgstr "Título de la página del Portfolio"
+
+#: inc/customizer.php:389
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Upgrade to Tevah (Pro)</a> for changing "
+"Portfolio title and description."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Actualiza a Tevah (Pro)</a> para cambiar el "
+"título y la descripción del Portfolio."
+
+#: inc/customizer.php:404
+msgid "Footer Settings"
+msgstr "Configuración del pie"
+
+#: inc/customizer.php:425
+msgid "Enter footer text"
+msgstr "Introduce el texto del pie"
+
+#: inc/customizer.php:426
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Upgrade to Tevah (Pro)</a> for hiding or "
+"changing Footer text."
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">Actualiza a Tevah (Pro)</a> para ocultar o "
+"cambiar el texto del pie."
+
+#: inc/meta-boxes.php:22
+msgid "Header Callout text"
+msgstr "Texto del aviso de la cabecera"
+
+#: inc/meta-boxes.php:42
+msgid ""
+"Want to replace header text with Callout text and description in singular "
+"views? <a href=\"%s\">Upgrade to Tevah (Pro)</a>."
+msgstr ""
+"¿Quieres cambiar el texto y la descripción del aviso de la cabecera en "
+"vistas singulares? <a href=\"%s\">Actualiza a Tevah (Pro)</a>."
+
+#: inc/template-tags.php:21
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: inc/template-tags.php:24
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: inc/template-tags.php:28
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más recientes &rarr;"
+
+#: loop-meta.php:18
+msgid "You are browsing the search results for &#8220;%s&#8221;"
+msgstr "Estás navegando por los resultados de la búsqueda &#8220;%s&#8221;"
+
+#: menu-primary.php:9
+msgid "Menu"
+msgstr "Menú"
+
+#: menu-primary.php:11 menu-primary.php:12
+msgid "Primary Menu"
+msgstr "Menú Primario"
+
+#: sidebar-subsidiary.php:52
+msgid "Search"
+msgstr "Búsqueda"
+
+#: single.php:17
+msgid "Next"
+msgstr "Siguiente"
+
+#: single.php:18
+msgid "Next:"
+msgstr "Siguiente:"
+
+#: single.php:20
+msgid "Previous"
+msgstr "Anterior"
+
+#: single.php:21
+msgid "Previous:"
+msgstr "Anterior:"
+
+#. Theme Name of the plugin/theme
+msgid "Tevah Lite"
+msgstr "Tevah Lite"
+
+#. Theme URI of the plugin/theme
+msgid "https://foxland.fi/downloads/toivo/"
+msgstr "https://foxland.fi/downloads/toivo/"
+
+#. Description of the plugin/theme
+msgid ""
+"Tevah Lite is perfect fit for business, personal or blog sites. It has "
+"beautiful Front Page template where you can show your important content, "
+"testimonials and Callout links. Tevah Lite is an accessible, translation-"
+"ready theme which supports plenty of features like Right to Left languages "
+"and Schema.org microdata."
+msgstr ""
+"Tevah Lite encaja perfectamente para sitios de negocios, personales o blogs. "
+"Tiene una bonita plantilla para la página principal donde puedes mostrar el "
+"contenido importante, los testimonios y los enlaces importantes. Tevah Lite "
+"es un tema accesible y listo para traducir que tiene muchas características "
+"como idiomas de derecha a izquierda y microdatos Schema.org."
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr "Sami Keijonen"
+
+#. Author URI of the plugin/theme
+msgid "https://foxland.fi"
+msgstr "https://foxland.fi"
+
+#. Template Name of the plugin/theme
+msgid "Front Page"
+msgstr "Página principal"
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: comment.php:29
+msgctxt "%1%s is for comment date"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un pensamiento en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamientos en &ldquo;%2$s&rdquo;"
+
+#: content-jetpack-testimonial.php:30
+msgctxt "dash before testimonial title"
+msgid "&ndash;"
+msgstr "&ndash;"
+
+#: content-link.php:20
+msgctxt "Arrow for link post format in right to left languages"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: content-link.php:22
+msgctxt "Arrow for link post format in left to right languages"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: footer.php:26
+msgctxt "Separator in site info."
+msgid "&middot;"
+msgstr "&middot;"
+
+#: functions.php:65
+msgctxt "nav menu location"
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:66
+msgctxt "nav menu location"
+msgid "Top"
+msgstr "Parte superior"
+
+#: functions.php:67
+msgctxt "nav menu location"
+msgid "Social"
+msgstr "Social"
+
+#: functions.php:120
+msgctxt "sidebar"
+msgid "Primary"
+msgstr "Primaria"
+
+#: functions.php:130
+msgctxt "sidebar"
+msgid "Subsidiary"
+msgstr "Subsidiaria"
+
+#: functions.php:140
+msgctxt "sidebar"
+msgid "Front Page"
+msgstr "Página principal"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Lato, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:167
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "activo"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Raleway, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:173
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr "activo"
+
+#: functions.php:293
+msgctxt "dash before menu item description"
+msgid "&ndash;"
+msgstr "&ndash;"
+
+#: inc/breadcrumb-trail.php:128
+msgctxt "Breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Enlaces de ayuda a la navegación"
+
+#: inc/breadcrumb-trail.php:723
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#: inc/breadcrumb-trail.php:740
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumb-trail.php:757
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumb-trail.php:773 inc/breadcrumb-trail.php:802
+#: inc/breadcrumb-trail.php:829 inc/breadcrumb-trail.php:856
+#: inc/breadcrumb-trail.php:1043
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumb-trail.php:774 inc/breadcrumb-trail.php:830
+#: inc/breadcrumb-trail.php:1047
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumb-trail.php:775 inc/breadcrumb-trail.php:1051
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumb-trail.php:803
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/customizer.php:98
+msgctxt "position of callout text"
+msgid "Top"
+msgstr "Parte superior"
+
+#: inc/customizer.php:100
+msgctxt "position of callout text"
+msgid "Bottom"
+msgstr "Parte inferior"
+
+#: inc/template-tags.php:49
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "Publicado en"
+
+#: inc/template-tags.php:57
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "Autor"
+
+#. Translators: Separates tags, categories, etc. when displaying a post.
+#: inc/template-tags.php:126
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ", "
+
+#: sidebar-front-page.php:12
+msgctxt "Sidebar aria label"
+msgid "Front Page Sidebar"
+msgstr "Barra lateral de la página principal"
+
+#: sidebar-primary.php:12
+msgctxt "Sidebar aria label"
+msgid "Primary Sidebar"
+msgstr "Barra lateral primaria"
+
+#: sidebar-subsidiary.php:10
+msgctxt "Sidebar aria label"
+msgid "Subsidiary Sidebar"
+msgstr "Barra lateral subsidiaria"

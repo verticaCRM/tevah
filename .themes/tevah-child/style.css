@@ -1,0 +1,297 @@
+/*
+Theme Name: BBCRM Tevah Child
+Author: BusinessBrokersCRM
+Version: 1.0
+Author URI: 
+Theme URI:
+Description:
+License: ''
+License URI: ''
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, rtl-language-support, sticky-post, translation-ready, microformats
+Text Domain: bbcrm
+template: tevah
+*/
+
+@import url('../tevah/style.css');
+
+@media only screen and (min-width: 992px) { 
+#nav .menu-item-has-children>a::after{
+right:2px;
+}
+}
+
+h2 {text-transform:none;font-weight:700;color:#ffffff;}
+.blog {padding:0;background-color:initial;}
+.blog .sticky {padding:0 !important;margin:0;background-color:#fff !important}
+.blog.row.m0.single_post , .contentRowPad{padding:0}
+
+header:before { background: rgba(255,255,255,0);}
+header nav .ownmenu {min-height:80px;max-height:85px}
+header .logo {margin:0;padding:0}
+ul.left-bar-side {line-height:10px; position: absolute;
+    right: 150px;top:15px;}
+
+ul.right-bar-side {line-height:10px;float:right !important;}
+
+
+.logo img {max-width:110px;max-height:108px}
+.sub-banner .overlay {padding-top:220px;}
+.sub-banner h1 {margin-bottom:220px;}
+.sub-banner .breadcrumb {display:block !important; color:#fff!important}
+
+.breadcrumb {background-color:#3c4962; color:#fff!important;margin-bottom:4px;}
+.breadcrumb a {background-color:#3c4962; color:#fff!important}
+.breadcrumb > .active {color:rgba(255,255,255,1)!important;}
+h4{color:#1E8BCB;}
+
+.top-bar .left-bar-side p {color:#efefef; line-height:initial; float:right;}
+
+.top-bar ul li a {color:#ffffff; display:inline !important; }
+
+.top-bar { height:72px !important; }
+
+
+header nav > ul > li:hover {background:none}
+header nav li.active a {color:#1E8BCB;}
+header nav li:hover a {color:#1E8BCB;}
+header nav li {margin-top:8px;}
+
+header nav > ul > li.active, header nav > ul > li:hover {
+    background:none!important;
+}
+
+.nav ul li a {background-color:rgba(0,0,0,1)}
+.nav ul li a:hover{background-color:rgba(0,0,0,1)}
+
+.login-submit{color:#333333}
+.all-properties, .home_featured, .wpp_row_view{
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+ul.menu {text-align:center}
+ul.menu li {display:inline-block;font-size:1.2em;padding:16px;}
+ul.menu li a {color:#fff;}
+ul.sub-menu li a {min-width:200px;}
+
+.formerr {font-weight:700;color:#9a0000;padding:2px;background-color:#f9efef}
+
+.brokeritem {border-radius:8px; padding: 28px 28px 0 28px !important; color:#fff; margin-right: 0 !important; width:95%}
+
+.brokerprofilebutton{background-color:#1E8BCB;padding:4px;border:0;color:#fff}
+.altbrokerprofilebutton{background-color:#c4202b!important;padding:4px;border:0;color:#fff}
+.portfoliobutton{background-color:#1E8BCB;padding:7px;margin:0;line-height:initial;font-size:13px;border:0;color:#fff}
+
+.property_detail label{width:150px !important;text-align:right}
+#divFooter{background-color:#3c4962 !important}
+#divFooter li{
+list-style: none;}
+
+.theme-background {background-color:#3c4962 !important; padding-bottom: 18px !important;}
+
+.theme-service-background-one {background-color:#c4202b !important}
+.theme-service-background-two {background-color:#fff !important; border:1px solid #aaa}
+.theme-service-background-two i{color:#aaa !important}
+.theme-service-background-three {background-color:#3c4962 !important}
+.theme-service-background-four {background-color:#f8b500 !important}
+
+#blue_top {margin:0; padding: 45px 45px 4px 0;}
+
+#blue_top ul {margin-top: -36px;
+    }
+
+#blue_top li{ list-style-type:none;color:#fff; display: inline-block; }
+
+
+#divLogo{height:82px!important;margin:0!important;padding:7px!important;background-color:#fff}
+#divLogo img {height:70%!important; margin-top: 6px;}
+#mainheader1 {top:50px;background-color:#c4202b !important;border-bottom:3px solid; #3c4962;}
+
+#top-bar{z-index:443;top:0;position:fixed;height:50px !important;width:100%;background-color:#3c4962;}
+
+
+.left-bar-side li{display:inline-block;color:#fff !important}
+.left-bar-side li a {color:#fff !important}
+
+.mltlngg-lang-switch-names{margin-top: 7px; padding:18px; }
+.mltlngg-lang-switch-names li {text-align:left;width:100px;padding:0 !important;}
+.mltlngg-lang-switch-names li > ul li {text-align:left;width:100px;padding:0 !important;}
+.mltlngg-lang-switch-names > li ul {top:26px !important}
+
+#logindiv{margin:0 !important;display:none;}
+#logindiv input{margin:0 !important;padding:.2em !important;}
+
+.article-page {border:none;box-shadow:none;padding:0}
+.article-page h1.article-page-head{color:#c4202b;padding-bottom:13px!important; font-weight: bold; font-size: 28px; }
+.article-page h1 a {color:#c4202b;text-decoration:none}
+.article-page h2 {color:#c4202b!important;font-size:16px;}
+
+.slide_h1_wrap h1{margin:10px 0;padding:.2em;font-family:'Source Sans Pro','Open Sans',helvetica,arial,sans-serif;background-color:rgba(60,73,98,0.6);color:#fff!important}
+.slide_h3_wrap .sub-headline{margin:10px 0;padding:.2em;font-family:'Source Sans Pro','Open Sans',helvetica,arial,sans-serif;background-color:rgba(255,255,255,0.6);color:#333!important}
+.descriptions{margin:10px 0;padding:.2em;font-family:'Source Sans Pro','Open Sans',helvetica,arial,sans-serif;background-color:rgba(192,32,43,0.6);color:#fff!important;text-align:left;}
+
+section#content{margin:0 auto;margin-top:190px}
+
+.featured-listing-title, .featured-listing-title a{font-weight:700;color:rgba(255,130,0,1);line-height:initial !important;}
+.theme_gray{color:rgba(129,127,128,1)}
+.header-no-line-height {line-height:0px !important}
+
+#sidebar {display:inline-block;max-width:25%;vertical-align:top;}
+.sidebar h3 {border:none;color:#3c4962;margin:0;}
+aside.widget{;margin-bottom:15px;}
+.sidebar .textwidget, .sidebar ul, .sidebar aside.widget div {background-color:#eff4f8;min-height:100px;border-radius:8px;border:1px solid #3c4962;padding:12px}
+.sidebar ul.menu li a{color:#333; font-weight:bold;}
+.sidebar .textwidget {padding:4px 12px;}
+.sidebar ul.menu {text-align:left}
+.sidebar ul.menu li:before {content:"\00BB";padding:0 2px;color:#c4202b}
+.sidebar ul.menu li {padding:0;padding-left:12px;margin:0;display:inline-block;background:none}
+
+.sidebar ul.menu li:hover,.sidebar ul.menu li:hover > a {color:#fff;background-color:#c4202b;border-radius:8px;}
+
+.sidebar ul.menu li a:hover {color:#fff}
+
+/*----------added June 2nd 2016 ----hs-----*/
+.nocomments {display:none;}
+.searchbox {max-width: 410px !important}
+.article-page-blue h2 { color: #3c4962!important;font-size: 16px;}
+
+.red-box {background-color:#c4202b;min-height:50px;border-radius:8px;padding:18px;color:#f5f5f5;}
+.red-box h3  {background-color:#c4202b; color:#f5f5f5; font-size: 20px; font-weight:bold;}
+.red-box p {background-color:#c4202b; color:#f5f5f5; font-size: 14px;}
+
+.blue-box {background-color:#3b5998;min-height:50px;border-radius:8px;padding:18px;color:#f5f5f5;}
+.blue-box h3  {background-color:#3b5998;color:#f5f5f5; font-size: 20px; font-weight:bold;}
+.red-box p {background-color:#3b5998; color:#f5f5f5; font-size: 14px;}
+.wpp_row_view div.property_div { min-height: 370px !important;}
+
+/*----------added June 5th 2016 ----hs-----*/
+form.mltlngg_switcher {display:inline-block; margin-top:18px;  vertical-align: bottom;}
+.breadcrumb {background-color:#3c4962 !important;margin-top:32px; }
+
+/*----------added June 6th 2016 ----hs-----*/
+h3.theme-background {width:100% !important}
+
+
+.fp-list li:before {
+  content: "\f00c"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  display: inline-block;
+  margin:0 15px 0 40px;
+  line-height: 28px;
+ 
+}
+ .search_result{max-width:70%; margin-left: 12%; margin-right: 12%;}
+
+
+#business_container {
+	display:inline-block;
+    max-width: 70%;
+    padding-right: 2%;
+}
+
+/*----------added June 7th 2016 ----hs---external form----*/
+
+
+
+.submit-button-row{text-align:center;width:auto;float:none}
+#submit{
+		float:none;
+		background-color: #3c4962 !important;
+	        border: 1px solid #ccc !important;
+	        border-radius: 5px !important;
+	        color: white !important;
+	 	font-size: 14px;
+		font-weight: bold;
+		cursor: pointer;
+		width:auto !important;
+		box-shadow: none !important; -webkit-box-shadow:none !important;
+}
+	
+
+#weblead {font-size-14px !important; color:#333 !important;}
+
+	
+input,textarea,select {font-family:'Montserrat', sans-serif; font-size:14px; box-shadow: none !important; -webkit-box-shadow:none !important;);
+border: 1px solid #ddd !important; padding: 2px 4px !important;
+border-radius: 3px !important;}
+
+
+input[type="text"] {
+    width: 170px;
+    box-shadow: none; border-radius: 3px !important; border: 1px solid #ddd !important;}
+
+Contacts_firstName { box-shadow: none !important; -webkit-box-shadow:none !important; border-radius: 3px !important; border: 1px solid #ddd !important;}
+
+/*----------added June 8th 2016 ----hs---agentPage----*/
+
+.agent_container{width: 66% !important;  }
+
+.agent_sidebar{}
+/*----------added June 9th & 13th 2016 ----hs-------*/
+
+form.mltlngg_switcher {
+    display: inline-block;
+    margin-top: -6px !important;
+    vertical-align: top !important;
+
+position: absolute;
+    right: 10px;
+    top: 3px;
+}
+
+
+
+/*----------added June 13th 2016 ----hs-------*/
+
+#mainheader1 {
+    position: absolute; top:40;}
+
+
+.hp-box
+ul,
+li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.hp-box ul {
+  margin: 1em 0;
+}
+
+.hp-box li {
+  margin: .5em;
+  margin-left: 3em;
+}
+
+.hp-box li:before {
+  content: '\f061';
+  font-family: 'FontAwesome';
+  float: left;
+  margin-left: -1.5em;
+  color: #fff;
+}
+
+.mainblogcontent {
+    padding-top: 1px !important;
+}
+
+
+.gmwd_store_locator_container1 {
+    
+    display: none !important;}
+
+.theme-color1{color:#3c4962}
+.theme-color2{color:#c4202b} //red
+
+/*----------added June 19th 2016 ----hs-------*/
+
+/*----------added June 19th 2016 ----hs-------*/
+.broker_details_div img {max-width: 30% !important}
+
+.broker_details_div .img {max-width: 30% !important}
+
+#brokerdetails.broker_details_div .img {max-width: 30% !important}
+
+#brokerdetails img {max-width: 30% !important; margin-right: 7px;}
